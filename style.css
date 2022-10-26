@@ -1,0 +1,52 @@
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:1%;
+}
+
+img{
+    width:9%;
+    border-radius:56px;
+}
+
+.card2{
+    box-shadow: 2px 2px 0px 1px rgb(248, 216, 216);
+    width:30%;
+    margin-left: 36%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.about{
+    margin-top: 4%;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
+
+.skills{
+    text-align: center;
+
+    margin-bottom: 3%;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    padding:1%;
+    color: aliceblue;
+}
+
+.contacts{
+    text-align: center;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: yellow;
+}
